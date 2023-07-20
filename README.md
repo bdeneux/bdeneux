@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/bdeneux/bdeneux/raw/main/linkedin-banner_Plan%20de%20travail%201.jpg" align="center" style="width: 100%" />
+<img src="https://github.com/bdeneux/bdeneux/raw/main/68747470733a2f2f696d616765732e7a656e68756275736572636f6e74656e742e636f6d2f3631373930383531623338346466613734613063333038332f38646564383861372d626161662d346539302d383863642d303133633463343261363630.png" align="center" style="width: 100%" />
 </div>  
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
